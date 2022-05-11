@@ -1,1 +1,1 @@
-my shell redirection command
+all my shell direction work
